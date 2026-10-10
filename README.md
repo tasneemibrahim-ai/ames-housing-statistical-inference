@@ -212,8 +212,3 @@ This project was developed as a university coursework assignment. Feel free to r
 ## Author
 
 Tasneem Ibrahim
-
-## Author
-
- Tasneem Ibrahim
-
